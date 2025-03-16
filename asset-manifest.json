@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yves-Yangasso/deverp_front_gestion_ecole/static/css/main.66750254.css",
+    "main.js": "/Yves-Yangasso/deverp_front_gestion_ecole/static/js/main.6263b123.js",
+    "static/js/511.a2fd106e.chunk.js": "/Yves-Yangasso/deverp_front_gestion_ecole/static/js/511.a2fd106e.chunk.js",
+    "index.html": "/Yves-Yangasso/deverp_front_gestion_ecole/index.html",
+    "main.66750254.css.map": "/Yves-Yangasso/deverp_front_gestion_ecole/static/css/main.66750254.css.map",
+    "main.6263b123.js.map": "/Yves-Yangasso/deverp_front_gestion_ecole/static/js/main.6263b123.js.map",
+    "511.a2fd106e.chunk.js.map": "/Yves-Yangasso/deverp_front_gestion_ecole/static/js/511.a2fd106e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66750254.css",
+    "static/js/main.6263b123.js"
+  ]
+}
